@@ -3,8 +3,7 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   justify-items: start;
-  height: 293px;
-  padding: 0 50px 4px 50px;
+  padding: 92px 50px 96px 50px;
 }
 
 .header__logo {
@@ -78,7 +77,6 @@
 
 .cover {
   position: relative;
-  height: 757px;
   background-image: url("../images/cover.jpg");
   background-size: cover;
   background-position: center;
@@ -142,6 +140,7 @@
   align-items: center;
   color: #ffffff;
   margin-top: auto;
+  padding-top: 105px;
 }
 
 .cover__description-text {
@@ -311,7 +310,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
   margin: 0 50px;
-  height: 180px;
+  padding-bottom: 81px;
 }
 
 .footer__menu {
